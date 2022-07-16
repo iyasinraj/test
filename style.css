@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(27, 27, 27, 0.449);
+    margin: 0;
+}
+
+h1{
+    display: flex;
+    color: white;
+    height: 80px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+}
